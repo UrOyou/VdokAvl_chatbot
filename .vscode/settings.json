@@ -1,0 +1,9 @@
+// {
+//     "cmake.sourceDirectory": "/home/ur/proj/FSToy/VdokAvl_chatbot/VKAchat"
+    
+// }
+{
+    "files.associations": {
+        "condition_variable": "cpp"
+    }
+}

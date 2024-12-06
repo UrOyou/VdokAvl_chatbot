@@ -4,7 +4,8 @@
     {
       "type": "gdbtarget",
       "request": "attach",
-      "name": "Eclipse CDT GDB Adapter"
+      "name": "Eclipse CDT GDB Adapter",
+      "program": "/home/ur/proj/FSToy/VdokAvl_chatbot/VKAchat/main/component/" 
     },
     {
       "type": "espidf",

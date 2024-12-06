@@ -13,5 +13,10 @@
     ],
     "idf.port": "/dev/ttyS0",
     "idf.pythonBinPath": "/home/ur/.espressif/python_env/idf5.3_py3.10_env/bin/python",
-    "idf.toolsPath": "/home/ur/.espressif"
+    "idf.toolsPath": "/home/ur/.espressif",
+    "files.associations": {
+        "esp_log.h": "c",
+        "cstring": "cpp",
+        "system_error": "c"
+    }
 }

@@ -4,7 +4,10 @@
 
 
 void hello_test(void);
+// class Hello{
+//     public:
+
+// };
 
 
-
-#endif
+#endif 
